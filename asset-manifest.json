@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://volmosg.github.io/csb-ryw6p0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://volmosg.github.io/csb-ryw6p0/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://volmosg.github.io/csb-ryw6p0/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://volmosg.github.io/csb-ryw6p0/static/js/runtime-main.1bf960d7.js",
+    "runtime-main.js.map": "https://volmosg.github.io/csb-ryw6p0/static/js/runtime-main.1bf960d7.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://volmosg.github.io/csb-ryw6p0/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://volmosg.github.io/csb-ryw6p0/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://volmosg.github.io/csb-ryw6p0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://volmosg.github.io/csb-ryw6p0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://volmosg.github.io/csb-ryw6p0/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bf960d7.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
